@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Welcome to the CodeQL Learning Catalog
 
 The CodeQL Learning Catalog is a learning resource that has been designed to
